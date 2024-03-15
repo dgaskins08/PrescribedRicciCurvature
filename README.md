@@ -1,4 +1,4 @@
-This repository contains code for work done on the Prescribed Ricci Curvature problem in the field of Riemannian Geometry. The write-up is pending, but a link to the ArXiv will be provided when available.
+This repository contains code for work done on the Prescribed Ricci Curvature problem in the field of Riemannian Geometry. The write-up is pending, but a link to the ArXiv will be provided when available. My only request if you wish to use this code or use it as a starting place for your own use is that a reference to my work is provided.
 
 There are multiple files in Python that are provided, all of which use Sympy for importing functions and symbols. There are 6 files in Python that are intended to be viewed in order. 
 The first file (so17orthonormalbasis.py) finds a basis for so(1,7) and the second file (so17orthocheck.py) runs check to ensure that the basis has the desired structures.
