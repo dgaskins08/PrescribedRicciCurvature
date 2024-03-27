@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Python, Mathematica'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Dustin
+    family-names: Gaskins
+    affiliation: Univeristiy of Oklahoma
+    email: dustin.a.gaskins-1@ou.edu
+repository-code: 'https://github.com/dgaskins08/PrescribedRicciCurvature'
+abstract: >-
+  This code is for solving the Prescribed Ricci Curvature
+  problem for SO(1,7)/G_2
+license: MIT
